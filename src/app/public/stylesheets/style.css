@@ -1,0 +1,17 @@
+body {
+    padding: 50px;
+    font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url('../images/island.gif')
+}
+
+a {
+    color: #00B7FF;
+}
+
+.code {
+    background-color: black;
+    color:blueviolet;
+}
